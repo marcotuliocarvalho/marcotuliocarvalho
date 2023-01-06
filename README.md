@@ -1,8 +1,8 @@
 ### Hello! I'm Marco
  <div>
-  <a href="https://github.com/MTulio2000">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MTulio2000&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTulio2000&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/marcotuliocarvalho">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcotuliocarvalho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcotuliocarvalho&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -19,6 +19,6 @@
   <a href = "mailto:marco2000carvalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="http://www.linkedin.com/in/marco-tulio-moreira-cortes-carvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/MTulio2000/MTulio2000/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/marcotuliocarvalho/marcotuliocarvalho/blob/output/github-contribution-grid-snake.svg)
  
 </div>
