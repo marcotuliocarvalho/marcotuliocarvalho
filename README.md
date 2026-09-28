@@ -1,167 +1,91 @@
-<h1 align="center">Hey, I'm Marco 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=I+teach+machines+to+find+patterns;Captain+of+UaiSoccer+%E2%9A%BD%F0%9F%A4%96;LARC+2021+Small+Size+League+Vice-Champion;Python+%7C+C%2B%2B+%7C+lots+of+curiosity" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=marcotuliocarvalho&label=Visitors&color=a855f7&style=for-the-badge" alt="Visitors" />
-  <img src="https://img.shields.io/badge/LARC_2021-Small_Size_League_Vice--Champion-a855f7?style=for-the-badge&logo=robotframework&logoColor=white" alt="LARC 2021 SSL Vice-Champion" />
-</p>
-
----
-
-## 👨‍💻 The short version
+# Marco Túlio Carvalho
 
 ```python
 class Marco:
     def __init__(self):
-        self.from_ = "São João del-Rei, MG 🇧🇷"
-        self.day_job = ["software development", "data science"]
+        self.location = "Córrego Danta, MG, Brazil"
+        self.work = ["software development", "data science"]
+        self.focus = ["machine learning", "time series", "system architecture"]
         self.languages = ["Python", "C++", "C", "Portuguese", "English"]
-        self.off_the_clock = ["football ⚽", "training 💪", "robot football 🤖⚽"]
-        self.trophy_shelf = ["LARC 2021 Small Size League: 2nd place 🥈"]
+        self.off_the_clock = ["football", "training", "robot football"]
+        self.achievements = ["LARC 2021, Small Size League: 2nd place"]
         self.favorite_way_to_learn = "build it from scratch, break it, fix it"
 
     def current_mood(self):
         return "curious"
 ```
 
-I like knowing what's happening **under the hood**. So when other people call `model.fit()`, I sometimes go write the backpropagation myself, just to see it work. It's slower, but I never forget how it works afterwards.
+I like knowing what happens under the hood. When other people call `model.fit()`, I sometimes write the backpropagation myself, just to see it work. It is slower, but I never forget how it works afterwards.
 
----
-
-## 🤖⚽ Robot football: where code meets the pitch
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🥈_Vice--Champion-LARC_2021-silver?style=for-the-badge" alt="Vice-Champion" />
-  <img src="https://img.shields.io/badge/Category-Small_Size_League-a855f7?style=for-the-badge" alt="Small Size League" />
-  <img src="https://img.shields.io/badge/Role-Team_Captain_%7C_Software-1f2937?style=for-the-badge" alt="Team Captain" />
+<p>
+  <a href="mailto:marco2000carvalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="http://www.linkedin.com/in/marco-tulio-moreira-cortes-carvalho"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/m.tulio.carvalho"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
-I was the **captain of UaiSoccer**, the robot football team of **UFSJ** (Federal University of São João del-Rei), part of the CyRos robotics and assistive technologies group, and I worked on the **software** side of the team.
+## Technologies
 
-In **October 2021**, at the **Latin American Robotics Competition (LARC)**, part of RoboCup 2021, we took **2nd place in the Small Size League**, the **team's best result in this category since it was founded in 2009**.
+<p>
+  <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Jupyter" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  <img alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img alt="C++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img alt="OpenCV" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg">
+  <img alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img alt="Dart" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+</p>
 
-**The numbers:**
+## Robot football
+
+I was the captain of **UaiSoccer**, the robot football team of the Federal University of São João del-Rei (UFSJ), part of the CyRos robotics and assistive technologies group. I worked on the software side of the team.
+
+In October 2021 we finished second in the **Small Size League** at the Latin American Robotics Competition (LARC), part of RoboCup 2021. It was the team's best result in this category since its founding in 2009.
 
 | | |
 |---|---|
-| ⚽ Matches played | 7 |
-| 🥅 Goals scored | **54** |
-| 🧤 Goals conceded | **1** |
-| 🏁 The final | 0–0 in regular time, lost **1–0 on penalties** 💔 |
+| Matches | 7 |
+| Goals scored | 54 |
+| Goals conceded | 1 |
+| Final | 0–0 in regular time, lost 1–0 on penalties |
 
-**What made it special:** because of the pandemic, the competition was **fully virtual**. There were no physical robots, so it all came down to programming the robots' *intelligence*: strategy, decision-making, and coordination between players. The team also competed in the **Drone** category.
+The competition was held virtually because of the pandemic, so the work consisted of programming the robots' behavior: strategy, decision-making, and coordination between players. The team also took part in the Drone category.
 
-The hardest opponent was **social distancing**. We beat it with dedication and a team that stayed in sync even over a screen.
+[News story (UFSJ)](https://www.ufsj.edu.br/noticias_ler.php?codigo_noticia=9213) · [UaiSoccer on LinkedIn](https://www.linkedin.com/company/uaisoccer/) · [UaiSoccer on Instagram](https://www.instagram.com/uaisoccers/)
 
-📰 [Read the news story (UFSJ)](https://www.ufsj.edu.br/noticias_ler.php?codigo_noticia=9213) &nbsp;|&nbsp; 🔗 [UaiSoccer on LinkedIn](https://www.linkedin.com/company/uaisoccer/) &nbsp;|&nbsp; 📸 [Instagram](https://www.instagram.com/uaisoccers/)
+## Areas of interest
 
-> 54 goals for, 1 against, and we still lost the final on penalties. Football, even for robots, is a cruel sport.
+- Machine learning and time series forecasting
+- Correlation analysis
+- Autonomous systems
+- Deploying models inside real applications
 
----
+## Selected repositories
 
-## 🧰 Tools of the trade
+**Machine learning and computer vision**
 
-<p align="center">
-  <img alt="Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Jupyter" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
-  <img alt="C" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img alt="C++" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img alt="Java" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img alt="PHP" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-</p>
+- [MultiClassMLP](https://github.com/marcotuliocarvalho/MultiClassMLP): multi-class MLP implemented from scratch in C++, tested on the Iris and Wine datasets
+- [ReinforcementLearning](https://github.com/marcotuliocarvalho/ReinforcementLearning): reinforcement learning experiments in Jupyter
+- [K-means](https://github.com/marcotuliocarvalho/K-means): K-means clustering
+- [PokerHand](https://github.com/marcotuliocarvalho/PokerHand) and [PokerHandAPI](https://github.com/marcotuliocarvalho/PokerHandAPI): poker hand classification and evaluation in Python
+- [OpenCVBasicExample](https://github.com/marcotuliocarvalho/OpenCVBasicExample): basic OpenCV functions applied to a webcam feed
+- [GrSimSendExample](https://github.com/marcotuliocarvalho/GrSimSendExample): example of sending packets to the grSim simulator, used in Small Size League robot football
 
-<!-- Add Pandas, NumPy, scikit-learn, ROS... only if they're really in your repos or projects. -->
+**Numerical methods**
 
----
+- [Interpolation](https://github.com/marcotuliocarvalho/Interpolation): linear, Newton, and Lagrange interpolation
+- [MMQ](https://github.com/marcotuliocarvalho/MMQ): least squares approximation of f(x) from sample points
+- [BezierCurve](https://github.com/marcotuliocarvalho/BezierCurve), [IntegralCalculation](https://github.com/marcotuliocarvalho/IntegralCalculation), [AlgebraMethods](https://github.com/marcotuliocarvalho/AlgebraMethods): Bézier curves, numerical integration, and Gauss-Seidel/Jacobi solvers
 
-## 🔨 Things I built (and why)
+**Algorithms and data structures**
 
-### 🧠 A neural network with no libraries
-<a href="https://github.com/marcotuliocarvalho/MultiClassMLP">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=marcotuliocarvalho&repo=MultiClassMLP&theme=radical" />
-</a>
+- [Dispatch](https://github.com/marcotuliocarvalho/Dispatch): greedy algorithm for cargo dispatch by maximum value or weight (C)
+- [AVLTree](https://github.com/marcotuliocarvalho/AVLTree): self-balancing binary search tree (C++)
+- [Huffman](https://github.com/marcotuliocarvalho/Huffman): text compression with Huffman coding (C++)
+- [WordSearch](https://github.com/marcotuliocarvalho/WordSearch): text search with Boyer-Moore, Horspool, and Sunday variants (C++)
 
-**MultiClassMLP**: a multi-class MLP in plain C++, tested on Iris and Wine. No TensorFlow, no PyTorch, just me, matrices, and gradients.
-*Why:* because it's one thing to use a neural net and another to understand one.
-
-<br clear="right"/>
-
-### 🎮 Teaching an agent to learn from rewards
-<a href="https://github.com/marcotuliocarvalho/ReinforcementLearning">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=marcotuliocarvalho&repo=ReinforcementLearning&theme=radical" />
-</a>
-
-**ReinforcementLearning**: notebooks where an agent learns by trial, error, and reward. Basically how I learned to play football, but with fewer bruises.
-
-<br clear="right"/>
-
-### 📐 The math behind the curtain
-<a href="https://github.com/marcotuliocarvalho/Interpolation">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=marcotuliocarvalho&repo=Interpolation&theme=radical" />
-</a>
-
-**Interpolation**: linear, Newton, and Lagrange: three ways of connecting the dots when you only have a few of them.
-
-<br clear="right"/>
-
-### 🧱 Classic algorithms, done properly
-
-| Repo | The idea |
-|---|---|
-| 🚚 [**Dispatch**](https://github.com/marcotuliocarvalho/Dispatch) | How do you load the most valuable cargo? Greedy algorithm, in C |
-| 🌳 [**AVLTree**](https://github.com/marcotuliocarvalho/AVLTree) | A binary tree that keeps itself balanced, in C++ |
-| 🧭 [**PathFinder**](https://github.com/marcotuliocarvalho/PathFinder) | Finding the way from A to B, in C++ (the robots would approve) |
-
----
-
-## 🌱 What I'm into right now
-
-- 📈 **Time series**: predicting what comes next from what already happened
-- 🔗 **Lag-based correlations**: does X today really explain Y next week?
-- 🤖 **Autonomous systems**: from robots on a field to models in production
-- 🏗️ **Getting models out of notebooks** and into real systems
-
-> *"Talk is cheap. Show me the code."* Coming soon: more of my applied projects, here.
-
----
-
-## 📊 The numbers
+The full list is on the [repositories tab](https://github.com/marcotuliocarvalho?tab=repositories).
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcotuliocarvalho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcotuliocarvalho&layout=compact&langs_count=7&theme=radical"/>
-</p>
-
----
-
-## 🎲 Fun facts
-
-- ⚽ I play football on the weekend **and** captained a team of robots that play it
-- 🥅 54 goals scored, 1 conceded, and I still lost a final on penalties. Ask me about it. Or don't.
-- 🌐 My best robotics result happened over a screen, because of a pandemic
-- 🔧 I'd rather rebuild a wheel to understand it than trust it blindly
-- 🗣️ I think and code in two languages
-
----
-
-## 💬 Let's talk
-
-Got a project, a question, or a weird dataset? Robots, ML, or algorithms? I'm always up for a chat.
-
-<p align="center">
-  <a href="mailto:marco2000carvalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="http://www.linkedin.com/in/marco-tulio-moreira-cortes-carvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marcotuliocarvalho/marcotuliocarvalho/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
-</p>
-
-<p align="center">
-  <i>"All models are wrong, but some are useful." (George Box)</i> 🐍
+  <img src="https://raw.githubusercontent.com/marcotuliocarvalho/marcotuliocarvalho/output/github-contribution-grid-snake.svg" alt="Contribution graph" />
 </p>
