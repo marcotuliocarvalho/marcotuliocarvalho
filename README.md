@@ -18,10 +18,23 @@ class Marco:
 I like knowing what happens under the hood. When other people call `model.fit()`, I sometimes write the backpropagation myself, just to see it work. It is slower, but I never forget how it works afterwards.
 
 <p>
-  <a href="mailto:marco2000carvalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:m.tulio.m.carvalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="http://www.linkedin.com/in/marco-tulio-moreira-cortes-carvalho"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/m.tulio.carvalho"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
+
+## Experience
+
+**Data H** · remote
+- **Data Scientist** (Jan 2024 – present): predictive models in Python for anomaly detection in electrical systems and animal behavior analysis, plus the data pipelines that feed model training.
+- **Software Developer** (Jun 2021 – Jun 2023): Django APIs, Python data processing pipelines, and chatbots built on IBM Watson and integrated through Twilio.
+
+**UaiSoccer (UFSJ)**: Software Manager (Aug 2019 – Dec 2023), previously C++ Developer (Apr – Aug 2019). More in [Robot football](#robot-football).
+
+## Education
+
+- B.Sc. in Computer Science, Federal University of São João del-Rei (UFSJ), 2019 – expected 2027
+- Technical diploma in Information Technology, IFMG Bambuí, 2016 – 2019
 
 ## Technologies
 
